@@ -10,6 +10,7 @@ package com.mycompany.primeiroprojeto;
  * @author torre
  */
 public class Principal {
+    //metodo principal
     public static void main(String[] args) {
         
     }
